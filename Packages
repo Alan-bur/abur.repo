@@ -28,3 +28,18 @@ Section: Themes
 Description: A theme that allows your old device become new again.
 Author: Alan Burcet
 Name: Grape
+
+Package: com.abur.grape
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone | com.saurik.winterboard	 
+Maintainer: Alan Burcet
+Filename: /Grape.deb
+Size: 14249272
+MD5sum: 14c997d10a91a98b8b6218831c6ec8f4
+SHA1: d072e7b41b9e2ad577d003a3e9bb18dbfbfb4c2b
+SHA256: 750df4b617d22824c30e56184d0a533226fbbee7a817c509c6a7bbe098b2270b
+Section: Themes
+Description: A theme that allows your old device become new again.
+Author: Alan Burcet
+Name: Grape
